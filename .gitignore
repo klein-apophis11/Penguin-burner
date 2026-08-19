@@ -1,0 +1,6 @@
+# Ignore local tracking data output
+TOKEN_METRICS.md
+
+# Ignore Python runtime environment caches
+__pycache__/
+*.pyc
